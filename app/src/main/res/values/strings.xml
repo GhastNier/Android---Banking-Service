@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CornerShop MidTerm Pract</string>
+    <string name="milk">Milk 3$</string>
+    <string name="eggs">Eggs 2$</string>
+    <string name="beef">Beef 23$</string>
+    <string name="soda">Soda 1$</string>
+    <string name="cookies">Cookies 2.5$</string>
+    <string name="fruit">Fruit 6.5$</string>
+    <string name="veggies">Veggies 4$</string>
+    <string name="qty">Qty.</string>
+    <string name="quantity">Quantity</string>
+    <string name="item_name">Item Name</string>
+    <string name="add">Add</string>
+    <string name="checkout">Checkout</string>
+</resources>
